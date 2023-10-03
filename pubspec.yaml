@@ -12,10 +12,9 @@ dependencies:
   flutter:
     sdk: flutter
   yaru_window: ^0.1.3
-  zenit_ui: 
-    path: ../zenit_ui
-  handy_window:
-    path: ../../stuff/handy_window.dart
+  zenit_ui:
+    git: https://github.com/dahliaOS/zenit_ui
+  handy_window: ^0.3.1
 
 dev_dependencies:
   flutter_test:
