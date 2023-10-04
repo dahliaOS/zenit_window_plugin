@@ -1,4 +1,5 @@
 import 'package:flutter/foundation.dart';
+import 'package:flutter/material.dart';
 import 'package:yaru_window/yaru_window.dart';
 import 'package:zenit_ui/zenit_ui.dart';
 import 'package:zenit_window_plugin/widgets/titlebar_gesture_detector.dart';
